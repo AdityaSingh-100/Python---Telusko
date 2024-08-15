@@ -1,6 +1,10 @@
-# cook your dish here
-temparature = 25.5
-kelvin = temparature + 273
+list = [2,4,5,4,4,6,3,2]
 
-print("Celcius-",temparature)
-print("Kelvin-",kelvin)
+for i in  list:
+    if i == 29:
+        print("Found")
+        break
+    else:
+        print("Not found")
+        break
+    

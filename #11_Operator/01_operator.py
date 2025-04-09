@@ -4,8 +4,8 @@ y = 3
 print(x + y) # 5
 print(x - y) # -1
 print(x * y) # 6
-print(x / y) # 0.6666666666666666  
-print(x % y) # 2
+print(x / y) # 0.6666666666666666  - gives us quotient
+print(x % y) # 2 - gives us remainder
 
 x = x + 2
 print (x) # 4   
@@ -62,12 +62,12 @@ print(not x) # False
 a,b = 10,4
 print(a & b) # 0
 
-print(a | b) # 14
+print(a | b) # 14 - 
 
 print(a ^ b) # 14
 
 print(~a) # -11
 
 print(a << 2) # 40
-
+x
 print(a >> 2) # 2

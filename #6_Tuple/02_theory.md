@@ -10,7 +10,7 @@ In this lecture we will learn:
 #1
 Tuples:-
 Tuple is almost similar to a list in which we can store multiple values.
-- Tuples are Immutable and we can change values in them.
+- Tuples are Immutable and we can't change values in them.
 - To define a tuple, () round brackets are used.
 - We can fetch the values from a tuple using the index value that can be given in a square bracket.
 - Tuple will give an error when you tried to change a value in it.

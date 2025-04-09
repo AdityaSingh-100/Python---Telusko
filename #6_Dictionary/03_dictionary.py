@@ -8,7 +8,7 @@ print(data[3])
 
 
 
-# NOTE 2. Dictionary is mutable
+# NOTE 2. Dictionary is mutable - we can change the valus after being created
 data.get(1)
 print(data.get(1))
 
@@ -21,7 +21,7 @@ print(data.get(3,'Not Found')) # NOTE Print Goku
 keys = ['Aditya','Eren','vegeta','Goku']
 values = ['Python','CPP','C#','Java']
 
-data = dict(zip(keys,values))
+data = dict(zip(keys,values)) #* zip function - useful to create a mapping between two iterables and then convert it into a dictionary
 print(data)
 
 

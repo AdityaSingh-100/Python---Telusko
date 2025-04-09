@@ -10,3 +10,4 @@ for i in range(4):   # This denotes row in the output
         print(j,end=" ")
         
     print()
+    

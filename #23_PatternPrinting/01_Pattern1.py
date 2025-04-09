@@ -20,7 +20,7 @@ for i in range(4):        # represent No of rows
 # #
 # # #
 # # # #'''
-    
+
 
 
 for i in range(4):        # represent No of columns
